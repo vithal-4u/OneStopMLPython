@@ -13,7 +13,7 @@ import nltk
 from nltk.corpus import stopwords
 
 # Reading CSV file
-message_data = pd.read_csv("D:/Study_Document/GIT/ML-Experiments/Datasets/spam.csv",encoding = "latin")
+message_data = pd.read_csv("D:/Study_Document/GIT/OneStopMLPython/resources/spam.csv",encoding = "latin")
 message_data.head()
 
 # Drop the columns for the dataset
