@@ -190,8 +190,7 @@ Network, "You have 2 missed Call[s] from +919962965844 .Last call: 11-08-2017 21
 Network, "+919994693972 tried calling you, To call back please dial +919994693972."
 Network, "Payment Failed: Your recent transaction for Airtel  Mobile Number: 9994429844, Amount- Rs. 191 and Txn ID 170902229104 has failed. Please click on the below link to try again. https://pay.airtel.in/red/r/4d7a5948s"
 Network, "Payment Failed: Your recent transaction for Airtel  Mobile Number: 9994429844, Amount- Rs. 191 and Txn ID 170902229104 has failed. Please click on the below link to try again. https://pay.airtel.in/red/r/4d7a5948s"
-Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11#
-Ignore if already recharged."
+Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11# Ignore if already recharged."
 Network, "Rs.150.0 recharge successful on 9994429844; TransID 170708121053 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
 Network, Your airtel mobile 9994429844 online recharge txn ID 170708121053 of Rs 150 has been initiated. Please keep the txn id for future reference.
 Network, "Rs.184.0 recharge successful on 9994429844; TransID 170630429363 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
@@ -204,8 +203,7 @@ Network, Your airtel mobile 9994429844 online recharge txn ID 17052461704 of Rs 
 Network, Your airtel mobile 9994429844 online recharge txn ID 17052461228 of Rs 200.0 has been initiated. Please keep the txn id for future reference.
 Network, "Rs.100.0 recharge successful on 9994429844; TransID 170512858772 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
 Network, Your airtel mobile 9994429844 online recharge txn ID 170512858772 of Rs 100.0 has been initiated. Please keep the txn id for future reference.
-Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11#
-Ignore if already recharged."
+Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11# Ignore if already recharged."
 Network, "Rs.184.0 recharge successful on 9994429844; TransID 170406786683 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
 Network, Your airtel mobile 9994429844 online recharge txn ID 170406786683 of Rs 184.0 has been initiated. Please keep the txn id for future reference.
 Network, "Rs.264.0 recharge successful on 9994429844; TransID 422712 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
@@ -216,14 +214,10 @@ Network, "Rs.134.0 recharge successful on 9994429844; TransID 170209103113 Free 
 Network, Your airtel mobile 9994429844 online recharge txn ID 170209103113 of Rs 134.0 has been initiated. Please keep the txn id for future reference.
 Network, Your airtel mobile 9994429844 online recharge txn ID 170126645674 of Rs 200.0 has been initiated. Please keep the txn id for future reference.
 Network, Your airtel mobile 9994429844 online recharge txn ID 170126645501 of Rs 200.0 has been initiated. Please keep the txn id for future reference.
-Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11#
-Ignore if already recharged."
-Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11#
-Ignore if already recharged."
-Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11#
-Ignore if already recharged."
-Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11#
-Ignore if already recharged."
+Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11# Ignore if already recharged."
+Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11# Ignore if already recharged."
+Network, "Validity of Your Airtel Internet pack has expired. Now usage will be charged from main account. To get pack, dial*121*11# Ignore if already recharged."
+Network, "Carry forward your unused 3G data before it expires tomorrow by recharging with a 3G pack. To get pack, dial *121*11# Ignore if already recharged."
 Network, "Rs.265.0 recharge successful on 9994429844; TransID 161115303219 Free Music on Airtel, http://wynk.in/mu/web FREE 50% Night Internet Cashback Daily. To activate, click http://airtel.in/night"
 Network, Your airtel mobile 9994429844 online recharge txn ID 161115303219 of Rs 265.0 has been initiated. Please keep the txn id for future reference.
 Network, Your airtel mobile 9994429844 online recharge txn ID 532637 of Rs 200.0 has been initiated. Please keep the txn id for future reference.
@@ -1069,7 +1063,7 @@ Cognizant, We have organized an Aadhaar Camp in Chennai offices. Kindly logon to
 Cognizant, "Dear Associate, kindly submit your Aadhaar information in HCM under Self Service, National Id Page. It is critical to link your UAN with Aadhaar Number. Act Now"
 Cognizant, We have organized an Aadhaar Camp in Chennai offices. Kindly logon to Cognizant, email and refer the email from Aadhaar Compliance for details. Take the Survey.
 Cognizant, "Dear Associate, See you today at #ngt16 - a celebration of next-gen technology. Join us and SMS your feedback. Live streaming of comments begins 9.30 am IST onwards. Please send as UTNI space <comments> to 9900040000. Your plan charges applicable."
-Cognizant	"Hi, Your software request(REQ000006770330) has been initiated for installation/uninstallation and your machine needs to be connected to Cognizant, Network. Please do not shut down your machine(PC256013) till the request is completed. Regards, OneNSS - IT Resources"
+Cognizant, "Hi, Your software request(REQ000006770330) has been initiated for installation/uninstallation and your machine needs to be connected to Cognizant, Network. Please do not shut down your machine(PC256013) till the request is completed. Regards, OneNSS - IT Resources"
 Cognizant, Remedy Update-ID:INC000013090917. Ticket is resolved by VLAN Automation Tool to the requested VLAN segment. Kindly restart the machine and check the New IP.
 Cognizant, Form 16 & 12BA for FY 2015-16 is now available in MyPay. Regards CTS India Finance. "Category-HRA,Status-REJECTED,Comment-Doc not uploaded"
 Cognizant, "Dear Associate, Cognizant, has organized Motor insurance helpdesk today between 11.00am to 6.00pm at SRI SEZ- Niagara Meeting Room, 6th Floor, SDB3; CRC- Cafeteria, Ground floor; CCO- Cafeteria, 7th floor; PRN- Cafeteria, 8th floor, Phase 1. Please utilize the services, if required."
@@ -1860,8 +1854,7 @@ Promotional, 50% More data on Night usage!Enjoy FREE 50% cashback daily on Airte
 Promotional, HURRY Up! Claim your FREE 5GB Internet before offer expires. Download My Airtel App to know more about the offer. To download click www.airtel.in/5/Free
 Promotional, "FREE 5GB Internet only on myAirtel app. To know more about the offer, click airtel.in/5/free"
 Promotional, "FREE 5GB Internet only on myAirtel app. To know more about the offer, click airtel.in/5/free"
-Promotional, "FREE 5GB Internet!
-Recharge with Rs265 & get 1GB 3G/4G+FREE 5GB on myAirtel app. Click airtel.in/5/free to know more about the offer."
+Promotional, "FREE 5GB Internet! Recharge with Rs265 & get 1GB 3G/4G+FREE 5GB on myAirtel app. Click airtel.in/5/free to know more about the offer."
 Promotional, "FREE 5GB Internet only on My Airtel App. To know more about the offer, click airtel.in/5/free"
 Promotional, FREE 5GB Data ! Hurry Up last few days left to claim your FREE Data. Click airtel.in/5/Free
 Promotional, 5GB FREE Internet! Download myAirtel app airtel.in/5/Free to know more about the offer.
@@ -4115,8 +4108,7 @@ Trans, Thank You for using your HDFC Bank Visa FoodPlus Card Card ending with XX
 Trans, Your HDFC Bank Visa FoodPlus Card Card ending with XXXX7339 has been reloaded with INR 1000.00 on 31-MAR-17 12:03 PM. Post Reload Card Bal is INR 1002.40.
 Trans, Thank You for using your HDFC Bank Visa FoodPlus Card Card ending with XXXX7339 for INR 35 at ISS CATERING SERVICES(SOU on 29-MAR-17 01:03 PM. Post txn Card Bal is INR 2.4.
 Trans, Thank You for using your HDFC Bank Visa FoodPlus Card Card ending with XXXX7339 for INR 99 at VASSI HOSPITTALTY on 28-MAR-17 01:03 PM. Post txn Card Bal is INR 37.4.
-Trans, "Learn L2/L3 Protocol Development/Testing.100% Guranteed placement in top MNC's.Highly Competitve  and unique Networking Software Development & Testing Skills. BE/ME/MCA(2013/2014/2015/2016/freshers).
-Please call us for enquiry.IAEC INDIA,Chromepet Chennai.044-43836262/9840847947. https://goo.gl/k6AhQ7"
+Trans, "Learn L2/L3 Protocol Development/Testing.100% Guranteed placement in top MNC's.Highly Competitve  and unique Networking Software Development & Testing Skills. BE/ME/MCA(2013/2014/2015/2016/freshers). Please call us for enquiry.IAEC INDIA,Chromepet Chennai.044-43836262/9840847947. https://goo.gl/k6AhQ7"
 Trans, "OTP for your Online Purchase of Rs. 139.00 from BilldkAIRTELMONEY , through NetBanking is  837143. OTP is confidential. Please do not share this with anyone."
 Trans, "Balance in A/c XXXXXXXXXX2251 as of 01-FEB-16 EOD is INR 18,242.13 . Check A/c for current balance . Credits in A/c are subject to clearing"
 Trans, "Thank you for choosing MTicket as your booking option on BookMyShow. For easy entry at the cinema, we request you to download the MTicket image and save it in your photo gallery. https://bmsurl.co/d8a8YoBy1Y"
@@ -4130,8 +4122,7 @@ Trans, "Hi Customer, http://bmsurl.co/thkXcsEu Please click on the above link to
 Trans, You have effected fund transfer through net banking. Please confirm with OTP: 67274. Please do not disclose OTP to anybody.
 Trans, Ajeesh B is added as payee from your net banking Account. Please confirm with OTP: 74287. If not added call to report as fraud.
 Trans, You have opted for online generation of transaction password. Pls confirm with OTP: 67276.
-Trans, "Country is observing Vigilance Awareness Week from 31 oct to 5 Nov. Join 'FIGHT AGAINST CORRUPTION' by taking INTEGRITY PLEDGE on www.cvc.nic.in
--Canara Bank"
+Trans, "Country is observing Vigilance Awareness Week from 31 oct to 5 Nov. Join 'FIGHT AGAINST CORRUPTION' by taking INTEGRITY PLEDGE on www.cvc.nic.in -Canara Bank"
 Trans, Your HDFC Bank Visa FoodPlus Card Card ending with XXXX7339 has been reloaded with INR 1000.00 on 31-MAY-17 12:05 PM. Post Reload Card Bal is INR 1006.40.
 Trans, "Your OTP for Fund Transfer(s) from A/c ending  251, is 277321. Please do not share OTP, as it is confidential. Ref No-XXXX0859"
 Trans, "Your OTP for Adding Sudhakar, A/c ending 449 as Beneficiary for Funds Transfer, is 340287. Please do not share OTP, as it is confidential. Ref No-XXXX8882"
@@ -4260,8 +4251,7 @@ Trans, "INR 23,042.00 deposited to A/c No XX2251 towards NEFT Cr-CHAS0INBX01-Cog
 Trans, "Bal in A/c No XX2251 has gone below your specified limit of INR 5,000.00. Y'day EOD Bal was INR 4,721.46. Check A/c for current bal."
 Trans, "Balance in A/c XXXXXXXXXX2251 as of 26-OCT-15 EOD is INR 4,921.46 . Check A/c for current balance . Credits in A/c are subject to clearing"
 Trans, "SECURITY ALERT  You have accessed your Net Banking on Thu Dec 29 2016 01:13:09 GMT 05:30. If you have not accessed, please change your password immediately"
-Trans, "Dear Customer,
-NOW ALL CUSTOMERS CAN USE IMPS FACILITY THROUGH INTERNET BANKING/ATM WITHOUT GENERATING MMID. TRANSFER FUNDS TO ANY BANK INSTANTLY UPTO INR -50000/DAY 24X7  THROUGH IMPS.-Canara Bank"
+Trans, "Dear Customer,NOW ALL CUSTOMERS CAN USE IMPS FACILITY THROUGH INTERNET BANKING/ATM WITHOUT GENERATING MMID. TRANSFER FUNDS TO ANY BANK INSTANTLY UPTO INR -50000/DAY 24X7  THROUGH IMPS.-Canara Bank"
 Trans, "Dear Customer, Download Canara Bank UPI app from play store http://goo.gl/CEtnXR. Link other Bank accounts too.Pay & Collect money using this app - Canara Bank"
 Trans, "Dear Customer,Download Canara Bank UPI app from play store http://goo.gl/CEtnXR. Link other Bank accounts too. Pay & Collect money using this app - Canara Bank"
 Trans, "Dear Customer, Download Canara Bank UPI app from play store http://goo.gl/CEtnXR. Link other Bank accounts too. Pay & Collect money using this app - Canara Bank"
