@@ -22,7 +22,27 @@ Machine learning algorithms are often categorized as supervised or unsupervised.
   
 # ML algorithams:
 # 1. Regression 
+  Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values. Regression technique vary from Linear Regression to SVR and Random Forests Regression.
+
+In this part, you will understand and learn how to implement the following Machine Learning Regression models:
+  a.  Simple Linear Regression
+  b.  Multiple Linear Regression
+  c.  Polynomial Regression
+  d.  Support Vector for Regression (SVR)
+  e.  Decision Tree Classification
+  f.  Random Forest Classification
+  
 # 2. Classification
+  Unlike regression where you predict a continuous number, you use classification to predict a category. There is a wide variety of classification applications from medicine to marketing. Classification models include linear models like Logistic Regression, SVM, and nonlinear ones like K-NN, Kernel SVM and Random Forests.
+
+In this part, you will understand and learn how to implement the following Machine Learning Classification models:
+  a.  Logistic Regression
+  b.  K-Nearest Neighbors (K-NN)
+  c.  Support Vector Machine (SVM)
+  d.  Kernel SVM
+  e.  Naive Bayes
+  f.  Decision Tree Classification
+  g.  Random Forest Classification
 
 
 
