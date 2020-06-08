@@ -50,7 +50,10 @@ Y = smsData['IntLabel'].values.astype('int')
 X_train, X_test, Y_train, Y_test = train_test_split(X,Y,stratify=Y,test_size=.4)
 
 from sklearn.svm import LinearSVC
+from sklearn.linear_model import LogisticRegression
+
 classifier = OneVsRestClassifier(LinearSVC(max_iter=3000))
+#classifier = OneVsRestClassifier(LogisticRegression(multi_class='ovr'))
 classifier.fit(X_train, Y_train)
 
 
