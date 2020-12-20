@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 
 #nltk.download('stopwords')
-smsData = pd.read_csv("D:/Study_Document/GIT/OneStopMLPython/resources/smsDataFormated.txt",names=['Label','Body'],skiprows=1)
+smsData = pd.read_csv("D:/Study_Document/Git_Hub/OneStopMLPython/resources/smsDataFormated.txt",names=['Label','Body'],skiprows=1)
 smsData.head()
 
 stopList = list(stopwords.words('english'))
